@@ -1,0 +1,15 @@
+{
+  "name": "java-hello-world",
+  "version": "1.0.0",
+  "description": "Hello Java!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "java": "^0.12.1",
+    "node-gyp": "^6.1.0"
+  }
+}
