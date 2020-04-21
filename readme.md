@@ -1,7 +1,7 @@
 # java-node-binding
 An example demonstrating communication between node and java program!
 
-Yep! You hear it !!
+Yep! You heard it !!
 Your JS files can call Java methods !!
 
 ### Dependencies
