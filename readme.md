@@ -1,5 +1,8 @@
-# java-hello-world
-Hello Java!
+# java-node-binding
+An example demonstrating communication between node and java program!
+
+Yep! You hear it !!
+Your JS files can call Java methods !!
 
 ### Dependencies
 * Java >= v8 (This projected tested with v8)
